@@ -1,0 +1,19 @@
+{
+  "name": "web-start",
+  "version": "1.0.0",
+  "description": "This folder contains the starting code for the [Firebase: Build a Real Time Web Chat App Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/).",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katrjnass/7-lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katrjnass/7-lab/issues"
+  },
+  "homepage": "https://github.com/katrjnass/7-lab#readme"
+}
